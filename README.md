@@ -4,4 +4,5 @@ Criteria weighting: -install.packages("fuzzyAHP") -install library(fuzzyAHP). Th
 
 
 Ranking alternatives:
+
 -create a fuzzy comparison matrix -calculate the the fuzzy AHP results -defuzzify the results using the Yager method -ranked the alternatives based on defuzzified results.
